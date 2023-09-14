@@ -43,9 +43,8 @@ npm run karate:slack
 
 ## 📚 Documentation
 
-[Karate API Official Documentation](https://github.com/karatelabs/karate)
-
-[Slack API](https://api.slack.com/)
+- Dive into the [Karate API Official Documentation](https://github.com/karatelabs/karate)
+- Explore the [Slack API](https://api.slack.com/) for further insights.
 
 ## ✨ Customization
 
