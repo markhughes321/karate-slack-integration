@@ -20,7 +20,7 @@ In the fast-paced world of agile development, instant feedback is paramount. Thi
 2. **Slack Setup**: 
     - Create a Slack App
     - Add the OAuth Scopes chat:write and files:write
-    - Add the App to your slack channel 
+    - Install the App to your Slack channel 
 3. **Environment Setup**:
     - Install the required npm modules.
     - Set up a `.env` file with your Bot User OAuth Token (SLACK_TOKEN) and channelID (SLACK_CHANNEL). See example.env for reference.
@@ -32,7 +32,6 @@ In the fast-paced world of agile development, instant feedback is paramount. Thi
 git clone https://github.com/markhughes321/karate-slack-integration
 ```
 2. Install the projects dependencies.
-`npm install`
 ```bash
 npm install
 ```
@@ -56,4 +55,4 @@ Your contributions and feedback are always welcome! Feel free to raise issues or
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the License.md for more info.
+This project is licensed under the MIT License - see the [License.md](https://github.com/markhughes321/karate-slack-integration/blob/main/License.md) for more info.
