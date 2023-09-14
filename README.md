@@ -52,8 +52,8 @@ The project is designed to be adaptable. Modify configurations, test scenarios, 
 
 ## 🤝 Contributions and Feedback
 
-Your contributions and feedback are always welcome! Feel free to raise issues or submit pull requests.
+Your contributions and feedback are always welcome! Feel free to raise issues or create pull requests.
 
 ## 📜 License
 
-ISC
+This project is licensed under the MIT License - see the License.md for more info.
