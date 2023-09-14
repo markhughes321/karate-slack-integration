@@ -23,7 +23,7 @@ In the fast-paced world of agile development, instant feedback is paramount. Thi
     - Install the App to your Slack channel 
 3. **Environment Setup**:
     - Install the required npm modules.
-    - Set up a `.env` file with your Bot User OAuth Token (SLACK_TOKEN) and channelID (SLACK_CHANNEL). See example.env for reference.
+    - Set up a `.env` file with your Bot User OAuth Token (SLACK_TOKEN) and channelID (SLACK_CHANNEL). See [example.env](https://github.com/markhughes321/karate-slack-integration/blob/main/.example.env) for reference.
 
 ## 🏃‍♂️ Running the Project
 
